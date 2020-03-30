@@ -1,1 +1,1 @@
-problem sets for MIT OpenCourseWare class 6.0001
+problem sets for MIT Open CourseWare class 6.0001
